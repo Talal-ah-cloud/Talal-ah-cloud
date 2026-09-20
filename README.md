@@ -1,12 +1,21 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ====================================================== -->
+<!--                 CLOUD SECURITY HEADER                  -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=70&lines=%E2%98%81%EF%B8%8F+%F0%9F%94%90+TALAL+AHMED+ALAM;%E2%98%81%EF%B8%8F+ASPIRING+CLOUD+SECURITY+ENGINEER;%F0%9F%94%90+SECURE+%E2%80%A2+MONITOR+%E2%80%A2+AUTOMATE+%E2%80%A2+DEFEND" alt="Animated Header" />
+<img
+  src="./cloud-security-header.svg"
+  width="100%"
+  alt="Talal Ahmed Alam - Cloud Security Engineer"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=800&color=00BFFF&center=true&vCenter=true&width=850&height=45&lines=AWS+Cloud+Security+Learner;Cybersecurity+Student;Security+Automation+Developer;Python+%7C+C%2B%2B+%7C+Java;Linux+%7C+Networking+%7C+Cloud;Building+Towards+Cloud+Security+Engineering" alt="Typing Animation" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=750&height=50&lines=Cybersecurity+Student;AWS+Cloud+Security+Learner;Security+Automation+Developer;Python+%7C+C%2B%2B+%7C+Java+Programmer;Cloud+Security+Enthusiast;Future+Cloud+Security+Engineer"
+  alt="Typing Animation"
+/>
 
 <br>
 
@@ -162,13 +171,24 @@ An automated network compliance and configuration vulnerability scanner built us
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Talal-ah-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Talal-ah-cloud&show_icons=true&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-ah-cloud&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-ah-cloud&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="Most Used Languages"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Talal-ah-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=Talal-ah-cloud&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -178,7 +198,11 @@ An automated network compliance and configuration vulnerability scanner built us
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talal-ah-cloud&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Talal-ah-cloud&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -189,22 +213,33 @@ An automated network compliance and configuration vulnerability scanner built us
 <div align="center">
 
 <a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img
+  src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
 </a>
 
 <a href="https://github.com/Talal-ah-cloud">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img
+  src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="YOUR_LINKEDIN_PROFILE_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img
+  src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 </div>
 
 ---
 
-<!-- ====================== FOOTER ====================== -->
+<!-- ====================================================== -->
+<!--                 CLOUD SECURITY FOOTER                  -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -212,16 +247,16 @@ An automated network compliance and configuration vulnerability scanner built us
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=60&lines=%E2%98%81%EF%B8%8F+CLOUD+SECURITY+ENGINEERING+%F0%9F%94%90;%F0%9F%9B%A1%EF%B8%8F+SECURE+%E2%80%A2+MONITOR+%E2%80%A2+AUTOMATE+%E2%80%A2+DEFEND;%E2%98%81%EF%B8%8F+BUILDING+SECURE+CLOUDS+BY+DESIGN;%F0%9F%9A%80+LEARNING+TODAY+%E2%80%A2+ENGINEERING+TOMORROW" alt="Animated Cloud Security Footer" />
+<img
+  src="./cloud-security-header.svg"
+  width="100%"
+  alt="Talal Ahmed Alam - Cloud Security Engineer"
+/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AWS-CLOUD_SECURITY-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/SECURITY-AUTOMATION-00C853?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-NETWORKING-00BFFF?style=for-the-badge&logo=linux&logoColor=white" />
-
-<br><br>
-
-<sub>☁️ Cloud Security • 🔐 Cybersecurity • 🤖 Automation • 🌐 Networking</sub>
+<sub>
+☁️ Cloud Security • 🔐 Cybersecurity • 🤖 Automation • 🌐 Networking
+</sub>
 
 </div>
