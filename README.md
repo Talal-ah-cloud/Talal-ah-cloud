@@ -10,13 +10,65 @@
 
 ---
 
-## 👋 Hello, I'm Talal
+# 👋 Hello, I'm Talal Ahmed Alam
 
-🎓 **BS Cyber Security Student**
+🎓 **BS Cybersecurity Student**
 
-• ☁️ Aspiring AWS Cloud Security Engineer
-• 🔐 Programming & Automation Enthusiast
+☁️ **Aspiring AWS Cloud Security Engineer**
 
-## 🧠 About Me
+🔐 **Cybersecurity & Security Automation Enthusiast**
 
-I'm currently pursuing a **Bachelor's in Cyber Security** from Pakistan with a strong focus on cloud architecture, secure infrastructure, and network automation.
+💻 **Python | C++ | Java Programmer**
+
+🐧 **Linux & Networking Learner**
+
+---
+
+# 🧠 About Me
+
+I'm currently pursuing a **Bachelor's degree in Cybersecurity** and building my skills through university coursework, security labs, programming projects, and independent learning.
+
+My primary interests are **Cloud Security, Cybersecurity, Network Security, Security Automation, and Secure Infrastructure**.
+
+I'm particularly interested in understanding how cloud environments can be securely designed, monitored, automated, and protected.
+
+I currently work with **Python, C++, Java, Linux, Git, GitHub, networking tools, and cybersecurity technologies** while expanding my knowledge of **Amazon Web Services (AWS)**.
+
+My long-term goal is to develop the practical knowledge and engineering skills required for a career in **Cloud Security Engineering**.
+
+---
+
+# ☁️ Cloud Security Focus
+
+I'm currently developing my knowledge in:
+
+- 🔐 Identity & Access Management (IAM)
+- 🌐 Virtual Private Cloud (VPC)
+- 🖥️ EC2 Security
+- 🪣 S3 Security
+- 📜 CloudTrail & Security Logging
+- 🚨 Threat Detection
+- 🛡️ Security Monitoring
+- 🔑 Least-Privilege Access
+- 🔒 Encryption & Data Protection
+- 🤖 Security Automation
+- 📊 Security Event Analysis
+- 🌐 Secure Cloud Networking
+
+---
+
+# 🛡️ Cybersecurity Interests
+
+```text
+                    CYBERSECURITY
+                         │
+       ┌─────────────────┼─────────────────┐
+       │                 │                 │
+       ▼                 ▼                 ▼
+  CLOUD SECURITY    NETWORK SECURITY    AUTOMATION
+       │                 │                 │
+       ├─ IAM            ├─ TCP/IP         ├─ Python
+       ├─ AWS            ├─ DNS            ├─ Log Analysis
+       ├─ VPC            ├─ HTTP/HTTPS     ├─ Monitoring
+       ├─ Logging        ├─ Firewalls      └─ Security Tools
+       └─ Monitoring     └─ Wireshark
