@@ -193,13 +193,12 @@ An automated network compliance and configuration vulnerability scanner built us
 
 ---
 
-<p align="center">
+---
 
-### ☁️ Secure the Cloud • 🔐 Automate the Defense • 🚀 Keep Learning
+<div align="center">
 
-`talal@cloud-sec:~$ build_securely_`
+### ☁️🔐 *“Engineer the cloud for scale. Secure it for trust. Defend it by design.”*
 
-</p>
-
+</div>
 
 
