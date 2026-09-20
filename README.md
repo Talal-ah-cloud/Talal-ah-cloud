@@ -1,15 +1,14 @@
-<!-- ===================================================== -->
-<!--                 TALAL AHMED ALAM                      -->
-<!--              GITHUB PROFILE README                    -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--              TALAL AHMED ALAM | GITHUB PROFILE            -->
+<!-- ========================================================= -->
 
 <div align="center">
 
 <!-- ================= ANIMATED HEADER ================= -->
 
 <img
-  src="./cloud-security-header.gif"
-  alt="Talal Ahmed Alam | Aspiring Cloud Security Engineer"
+  src="./cloud-security-animation.gif"
+  alt="Talal Ahmed Alam - Aspiring Cloud Security Engineer"
   width="100%"
 />
 
@@ -70,7 +69,7 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 🤖 Exploring **Security Automation with Python** to automate repetitive security tasks, analyze logs, verify file integrity, and improve security workflows.
 
-🧩 Practicing **Data Structures & Algorithms** to strengthen problem-solving abilities and programming fundamentals.
+🧩 Practicing **Data Structures & Algorithms** to improve problem-solving, programming efficiency, and software-development fundamentals.
 
 ---
 
@@ -100,17 +99,12 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=python,cpp,java"
-  alt="Python, C++ and Java"
-/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" alt="Python C++ Java">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 
 </div>
@@ -121,19 +115,13 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=aws,linux"
-  alt="AWS and Linux"
-/>
+<img src="https://skillicons.dev/icons?i=aws,linux" alt="AWS Linux">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
-
 <img src="https://img.shields.io/badge/AWS-VPC-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS VPC">
-
 <img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3">
-
 <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2">
 
 </div>
@@ -144,17 +132,12 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode"
-  alt="Git, GitHub and Visual Studio Code"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-
 <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
 
 </div>
@@ -185,14 +168,14 @@ An automated network compliance and configuration vulnerability scanner built us
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-ah-cloud&layout=compact&theme=tokyonight&hide_border=true"
   height="165"
-  alt="Talal Ahmed Alam Most Used Languages"
+  alt="Most Used Languages"
 />
 
 <br><br>
 
 <img
   src="https://streak-stats.demolab.com?user=Talal-ah-cloud&theme=tokyonight&hide_border=true"
-  alt="Talal Ahmed Alam GitHub Streak"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -218,31 +201,29 @@ An automated network compliance and configuration vulnerability scanner built us
 <div align="center">
 
 <a href="mailto:YOUR_EMAIL_ADDRESS">
-  <img
-    src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+<img
+  src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
 </a>
 
 <a href="https://github.com/Talal-ah-cloud">
-  <img
-    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img
+  src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="YOUR_LINKEDIN_PROFILE_URL">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 </div>
 
 ---
-
-<!-- ================= CLOUD SECURITY QUOTE ================= -->
 
 <div align="center">
 
@@ -257,9 +238,13 @@ An automated network compliance and configuration vulnerability scanner built us
 <!-- ================= ANIMATED FOOTER ================= -->
 
 <img
-  src="./cloud-security-header.gif"
-  alt="Talal Ahmed Alam | Cloud Security Engineering"
+  src="./cloud-security-animation.gif"
+  alt="Talal Ahmed Alam - Cloud Security Engineering"
   width="100%"
 />
 
 </div>
+
+<!-- ========================================================= -->
+<!--                     END OF README                         -->
+<!-- ========================================================= -->
