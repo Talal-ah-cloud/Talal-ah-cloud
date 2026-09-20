@@ -1,14 +1,21 @@
 <div align="center">
 
-<!-- ===================== ANIMATED HEADER ===================== -->
-
 <img
-  src="https://raw.githubusercontent.com/Talal-ah-cloud/Talal-ah-cloud/main/cloud-security-header.svg"
+  src="./cloud-security-header.gif"
   alt="Talal Ahmed Alam - Aspiring Cloud Security Engineer"
   width="100%"
 />
 
 <br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=750&height=45&lines=Cybersecurity+Student;AWS+Cloud+Security+Learner;Security+Automation+Developer;Python+%7C+C%2B%2B+%7C+Java+Programmer;Cloud+Security+Enthusiast;Future+Cloud+Security+Engineer"
+  alt="Typing Animation"
+/>
+
+</div>
+
+---
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 
@@ -246,22 +253,16 @@ The script securely connects to distributed networking endpoints via SSH, parses
 
 ---
 
+---
+
 <div align="center">
 
-## ☁️🔐
-
-### *“Engineer the cloud for scale. Secure it for trust. Defend it by design.”*
+### ☁️🔐 *“Engineer the cloud for scale. Secure it for trust. Defend it by design.”*
 
 <br>
 
-**☁️ Cloud Security &nbsp; • &nbsp; 🔐 Cybersecurity &nbsp; • &nbsp; 🤖 Automation &nbsp; • &nbsp; 🌐 Networking**
-
-<br><br>
-
-<!-- ===================== ANIMATED FOOTER ===================== -->
-
 <img
-  src="https://raw.githubusercontent.com/Talal-ah-cloud/Talal-ah-cloud/main/cloud-security-header.svg"
+  src="./cloud-security-header.gif"
   alt="Talal Ahmed Alam - Cloud Security Engineering"
   width="100%"
 />
