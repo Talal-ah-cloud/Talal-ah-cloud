@@ -1,25 +1,18 @@
-<!-- ========================================================= -->
-<!--              TALAL AHMED ALAM | GITHUB PROFILE            -->
-<!-- ========================================================= -->
+<!-- ====================== HEADER ====================== -->
 
 <div align="center">
 
-<!-- ================= ANIMATED HEADER ================= -->
-
-<img
-  src="./cloud-security-animation.gif"
-  alt="Talal Ahmed Alam - Aspiring Cloud Security Engineer"
-  width="100%"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=70&lines=%E2%98%81%EF%B8%8F+%F0%9F%94%90+TALAL+AHMED+ALAM;%E2%98%81%EF%B8%8F+ASPIRING+CLOUD+SECURITY+ENGINEER;%F0%9F%94%90+SECURE+%E2%80%A2+MONITOR+%E2%80%A2+AUTOMATE+%E2%80%A2+DEFEND" alt="Animated Header" />
 
 <br>
 
-<!-- ================= TYPING ANIMATION ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=800&color=00BFFF&center=true&vCenter=true&width=850&height=45&lines=AWS+Cloud+Security+Learner;Cybersecurity+Student;Security+Automation+Developer;Python+%7C+C%2B%2B+%7C+Java;Linux+%7C+Networking+%7C+Cloud;Building+Towards+Cloud+Security+Engineering" alt="Typing Animation" />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=750&height=50&lines=Cybersecurity+Student;AWS+Cloud+Security+Learner;Security+Automation+Developer;Python+%7C+C%2B%2B+%7C+Java+Programmer;Cloud+Security+Enthusiast;Future+Cloud+Security+Engineer"
-  alt="Typing Animation"
-/>
+<br>
+
+<img src="https://img.shields.io/badge/CLOUD-SECURITY-00BFFF?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-LEARNING-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/SECURITY-AUTOMATION-00C853?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
@@ -41,21 +34,21 @@
 
 # 🧠 About Me
 
-I'm currently pursuing a **Bachelor's degree in Cybersecurity** and building my skills through university coursework, security labs, programming projects, and independent learning.
+I'm currently pursuing a **Bachelor's degree in Cybersecurity** and developing my technical skills through university coursework, cybersecurity labs, programming projects, and independent learning.
 
 My primary interests are **Cloud Security, Cybersecurity, Network Security, Security Automation, and Secure Infrastructure**.
 
-I'm particularly interested in understanding how cloud environments can be securely designed, monitored, automated, and protected.
+I'm particularly interested in understanding how cloud environments can be securely **designed, configured, monitored, automated, and protected**.
 
 I currently work with **Python, C++, Java, Linux, Git, GitHub, networking tools, and cybersecurity technologies** while expanding my knowledge of **Amazon Web Services (AWS)**.
 
-My long-term goal is to develop the practical knowledge and engineering skills required for a career in **Cloud Security Engineering**.
+My long-term goal is to build the practical engineering knowledge required for a professional career in **Cloud Security Engineering**.
 
 ---
 
 # ✨ Currently Learning & Exploring
 
-💻 Continuously improving my programming skills through **Python, C++, and Java**, with a focus on clean code and security automation.
+💻 Continuously improving my programming skills through **Python, C++, and Java**, with a focus on clean code, problem solving, and security automation.
 
 ☁️ Exploring **AWS Cloud Security** and learning how cloud infrastructure can be securely designed, configured, monitored, and protected.
 
@@ -85,7 +78,7 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 🐧 Become confident working with **Linux systems**, command-line tools, permissions, networking, and security utilities.
 
-🛡️ Build practical **cybersecurity and cloud-security projects** to complement theoretical knowledge.
+🛡️ Build practical **cybersecurity and cloud-security projects** alongside my academic studies.
 
 🤝 Contribute to **open-source projects** related to cybersecurity, cloud computing, automation, and software development.
 
@@ -99,13 +92,13 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java" alt="Python C++ Java">
+<img src="https://skillicons.dev/icons?i=python,cpp,java" alt="Python C++ Java" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </div>
 
@@ -115,14 +108,14 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux" alt="AWS Linux">
+<img src="https://skillicons.dev/icons?i=aws,linux" alt="AWS Linux" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
-<img src="https://img.shields.io/badge/AWS-VPC-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS VPC">
-<img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3">
-<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2">
+<img src="https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-VPC-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
 
 </div>
 
@@ -132,13 +125,13 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
 
@@ -148,10 +141,20 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 ## 🛠️ [Cisco Security Auditor](./cisco-security-auditor)
 
-An automated network compliance and configuration vulnerability scanner built using Python and Netmiko. The script securely connects to distributed networking endpoints via SSH, parses running configuration files, and dynamically flags baseline security flaws—such as unsecure administrative protocols (Telnet/HTTP), weak authentication flags, and missing access control lists (ACLs).
+An automated network compliance and configuration vulnerability scanner built using **Python and Netmiko**. The script securely connects to distributed networking endpoints via SSH, parses running configuration files, and dynamically flags baseline security flaws—such as unsecure administrative protocols (Telnet/HTTP), weak authentication flags, and missing access control lists (ACLs).
 
-* **Tech Stack:** Python, Netmiko, SSH, Data Parsing (RegEx)
-* 👉 **[Explore the Repository Code](./cisco-security-auditor)**
+**Tech Stack:** `Python` • `Netmiko` • `SSH` • `Data Parsing` • `RegEx`
+
+### 🔍 Key Areas
+
+- Network configuration auditing
+- Automated security checks
+- SSH-based device communication
+- Configuration parsing
+- Vulnerability identification
+- Network security automation
+
+### 👉 [Explore the Repository Code](./cisco-security-auditor)
 
 ---
 
@@ -159,24 +162,13 @@ An automated network compliance and configuration vulnerability scanner built us
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Talal-ah-cloud&show_icons=true&theme=tokyonight&hide_border=true"
-  height="165"
-  alt="Talal Ahmed Alam GitHub Statistics"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Talal-ah-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-ah-cloud&layout=compact&theme=tokyonight&hide_border=true"
-  height="165"
-  alt="Most Used Languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-ah-cloud&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
 
 <br><br>
 
-<img
-  src="https://streak-stats.demolab.com?user=Talal-ah-cloud&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=Talal-ah-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -186,11 +178,7 @@ An automated network compliance and configuration vulnerability scanner built us
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Talal-ah-cloud&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Talal Ahmed Alam GitHub Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talal-ah-cloud&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -201,29 +189,22 @@ An automated network compliance and configuration vulnerability scanner built us
 <div align="center">
 
 <a href="mailto:YOUR_EMAIL_ADDRESS">
-<img
-  src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
+<img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/Talal-ah-cloud">
-<img
-  src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="YOUR_LINKEDIN_PROFILE_URL">
-<img
-  src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
 
 ---
+
+<!-- ====================== FOOTER ====================== -->
 
 <div align="center">
 
@@ -231,20 +212,16 @@ An automated network compliance and configuration vulnerability scanner built us
 
 <br>
 
-**☁️ Cloud Security &nbsp; • &nbsp; 🔐 Cybersecurity &nbsp; • &nbsp; 🤖 Automation &nbsp; • &nbsp; 🌐 Networking**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=60&lines=%E2%98%81%EF%B8%8F+CLOUD+SECURITY+ENGINEERING+%F0%9F%94%90;%F0%9F%9B%A1%EF%B8%8F+SECURE+%E2%80%A2+MONITOR+%E2%80%A2+AUTOMATE+%E2%80%A2+DEFEND;%E2%98%81%EF%B8%8F+BUILDING+SECURE+CLOUDS+BY+DESIGN;%F0%9F%9A%80+LEARNING+TODAY+%E2%80%A2+ENGINEERING+TOMORROW" alt="Animated Cloud Security Footer" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS-CLOUD_SECURITY-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/SECURITY-AUTOMATION-00C853?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-NETWORKING-00BFFF?style=for-the-badge&logo=linux&logoColor=white" />
 
 <br><br>
 
-<!-- ================= ANIMATED FOOTER ================= -->
-
-<img
-  src="./cloud-security-animation.gif"
-  alt="Talal Ahmed Alam - Cloud Security Engineering"
-  width="100%"
-/>
+<sub>☁️ Cloud Security • 🔐 Cybersecurity • 🤖 Automation • 🌐 Networking</sub>
 
 </div>
-
-<!-- ========================================================= -->
-<!--                     END OF README                         -->
-<!-- ========================================================= -->
