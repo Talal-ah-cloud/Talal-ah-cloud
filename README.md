@@ -1,17 +1,21 @@
 <div align="center">
 
-<!-- ===================== MAIN BANNER ===================== -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-<img src="./cloud-security-banner.png"
-     alt="Talal Ahmed Alam - Cloud Security Banner"
-     width="100%">
+<img
+  src="https://raw.githubusercontent.com/Talal-ah-cloud/Talal-ah-cloud/main/cloud-security-header.svg"
+  alt="Talal Ahmed Alam - Aspiring Cloud Security Engineer"
+  width="100%"
+/>
 
 <br><br>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;AWS+Cloud+Security+Learner;Security+Automation+Developer;Python+%7C+C%2B%2B+%7C+Java+Programmer;Cloud+Security+Enthusiast;Future+Cloud+Security+Engineer"
-     alt="Typing SVG">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=750&height=45&lines=Cybersecurity+Student;AWS+Cloud+Security+Learner;Security+Automation+Developer;Python+%7C+C%2B%2B+%7C+Java+Programmer;Cloud+Security+Enthusiast;Future+Cloud+Security+Engineer"
+  alt="Typing Animation"
+/>
 
 </div>
 
@@ -47,7 +51,7 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 # ✨ Currently Learning & Exploring
 
-💻 Continuously improving my programming skills through **Python, C++, and Java**, with a focus on clean code and security automation.
+💻 Continuously improving my programming skills through **Python, C++, and Java**, with a focus on writing clean code and developing security automation tools.
 
 ☁️ Exploring **AWS Cloud Security** and learning how cloud infrastructure can be securely designed, configured, monitored, and protected.
 
@@ -55,13 +59,13 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 🌐 Strengthening my knowledge of **Computer Networks & Network Security**, including TCP/IP, DNS, HTTP/HTTPS, firewalls, packet analysis, and secure networking.
 
-🐧 Gaining hands-on experience with **Linux**, focusing on command-line tools, permissions, processes, networking, administration, and security.
+🐧 Gaining hands-on experience with **Linux**, focusing on command-line tools, system administration, permissions, processes, networking, and security.
 
-🔍 Learning **Digital Forensics & System Analysis** to better understand security incidents, system artifacts, and digital evidence.
+🔍 Learning **Digital Forensics & System Analysis** to understand security incidents, system artifacts, and digital evidence.
 
-🤖 Exploring **Security Automation with Python** to automate repetitive security tasks, analyze logs, verify file integrity, and improve security workflows.
+🤖 Exploring **Security Automation using Python** to automate repetitive security tasks, analyze logs, verify file integrity, and improve security workflows.
 
-🧩 Practicing **Data Structures & Algorithms** to strengthen problem-solving abilities and programming fundamentals.
+🧩 Practicing **Data Structures & Algorithms** to improve problem-solving, programming efficiency, and software-development fundamentals.
 
 ---
 
@@ -69,7 +73,7 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 ☁️ Build a strong practical foundation in **AWS Cloud Security** and secure cloud infrastructure.
 
-🔐 Develop knowledge of **IAM, VPC, EC2, S3, CloudTrail, logging, monitoring, encryption, and access control**.
+🔐 Develop practical knowledge of **IAM, VPC, EC2, S3, CloudTrail, logging, monitoring, encryption, and access control**.
 
 🐍 Improve my **Python scripting and automation skills** for cybersecurity and cloud-security tasks.
 
@@ -91,8 +95,7 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java"
-     alt="Python, C++ and Java">
+<img src="https://skillicons.dev/icons?i=python,cpp,java" alt="Python, C++ and Java">
 
 </p>
 
@@ -110,8 +113,7 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux"
-     alt="AWS and Linux">
+<img src="https://skillicons.dev/icons?i=aws,linux" alt="AWS and Linux">
 
 </p>
 
@@ -131,8 +133,7 @@ My long-term goal is to develop the practical knowledge and engineering skills r
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"
-     alt="Git, GitHub and VS Code">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code">
 
 <br><br>
 
@@ -173,75 +174,96 @@ The script securely connects to distributed networking endpoints via SSH, parses
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Talal-ah-cloud&show_icons=true&theme=tokyonight&hide_border=true"
-     height="165"
-     alt="Talal Ahmed Alam GitHub Statistics">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Talal-ah-cloud&show_icons=true&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="Talal Ahmed Alam GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-ah-cloud&layout=compact&theme=tokyonight&hide_border=true"
-     height="165"
-     alt="Talal Ahmed Alam Most Used Languages">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal-ah-cloud&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="Talal Ahmed Alam Most Used Languages"
+/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Talal-ah-cloud&theme=tokyonight&hide_border=true"
-     alt="Talal Ahmed Alam GitHub Streak">
+<div align="center">
 
-</p>
+<img
+  src="https://streak-stats.demolab.com?user=Talal-ah-cloud&theme=tokyonight&hide_border=true"
+  alt="Talal Ahmed Alam GitHub Streak"
+/>
+
+</div>
 
 ---
 
 # 📈 GitHub Activity Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talal-ah-cloud&theme=tokyo-night&hide_border=true&area=true"
-     width="100%"
-     alt="Talal Ahmed Alam GitHub Activity Graph">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Talal-ah-cloud&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="Talal Ahmed Alam GitHub Activity Graph"
+/>
 
-</p>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
-     alt="Email">
+  <img
+    src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <a href="https://github.com/Talal-ah-cloud">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-     alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="YOUR_LINKEDIN_PROFILE_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-     alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-# ☁️🔐
+## ☁️🔐
 
 ### *“Engineer the cloud for scale. Secure it for trust. Defend it by design.”*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=SECURE+%E2%80%A2+MONITOR+%E2%80%A2+AUTOMATE+%E2%80%A2+DEFEND;Building+Skills+for+the+Cloud;Learning+Today+%E2%80%A2+Engineering+Tomorrow"
-     alt="Cloud Security Footer Animation">
+**☁️ Cloud Security &nbsp; • &nbsp; 🔐 Cybersecurity &nbsp; • &nbsp; 🤖 Automation &nbsp; • &nbsp; 🌐 Networking**
 
 <br><br>
 
-**☁️ Cloud Security &nbsp; • &nbsp; 🔐 Cybersecurity &nbsp; • &nbsp; 🤖 Automation &nbsp; • &nbsp; 🌐 Networking**
+<!-- ===================== ANIMATED FOOTER ===================== -->
+
+<img
+  src="https://raw.githubusercontent.com/Talal-ah-cloud/Talal-ah-cloud/main/cloud-security-header.svg"
+  alt="Talal Ahmed Alam - Cloud Security Engineering"
+  width="100%"
+/>
 
 </div>
