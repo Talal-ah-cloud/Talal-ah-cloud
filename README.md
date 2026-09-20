@@ -1,4 +1,5 @@
-![](https://herokuapp.com)
+<p align="center"><img src="https://herokuapp.com" alt="Typing SVG" /></p>
+
 
 # 👋 Hello, I'm Talal
 
