@@ -146,11 +146,17 @@ My long-term goal is to build the practical engineering knowledge required for a
 
 ---
 
-# 🧩 Featured Project
+# 🧩 Featured Projects
 
-## 🛠️ [Cisco Security Auditor](./cisco-security-auditor)
+### 🛠️ [Cisco Security Auditor](./cisco-security-auditor)
+An automated network compliance and configuration vulnerability scanner built using Python and Netmiko. The script securely connects to distributed networking endpoints via SSH, parses running configuration files, and dynamically flags baseline security flaws—such as unsecure administrative protocols (Telnet/HTTP), weak authentication flags, and missing access control lists (ACLs).
+* **Tech Stack:** Python, Netmiko, SSH, Data Parsing (RegEx)
+* 👉 **[Explore the Repository Code](./cisco-security-auditor)**
 
-An automated network compliance and configuration vulnerability scanner built using **Python and Netmiko**. The script securely connects to distributed networking endpoints via SSH, parses running configuration files, and dynamically flags baseline security flaws—such as unsecure administrative protocols (Telnet/HTTP), weak authentication flags, and missing access control lists (ACLs).
+### ☁️ [AWS S3 Security Guarddog](./aws-s3-security-guarddog)
+A serverless cloud security automation tool built using Python and the Boto3 AWS SDK. The script operates as an inline AWS Lambda function that triggers automatically on storage event uploads, executing regular expression tracking models to scan document payloads and automatically applying quarantine tags to isolate exposed plain-text credentials within seconds.
+* **Tech Stack:** Python, Boto3 (AWS SDK), Serverless Architecture, RegEx
+* 👉 **[Explore the Repository Code](./aws-s3-security-guarddog)**
 
 **Tech Stack:** `Python` • `Netmiko` • `SSH` • `Data Parsing` • `RegEx`
 
